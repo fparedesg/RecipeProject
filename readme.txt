@@ -1,11 +1,20 @@
-Group 6
+GROUP 6:
+Federico Paredes
+Brandon Staunton
+Sharifah Ummu Kulthum Binti Syed Abdul Rahman
+MingZi Yi
 
-Python library used:
+Things we implemented:
+* All the optional tasks.
+* To/from vegetarian and to/from pescatarian.
+* To style (region): Chinese, Japanese, and Mexican.
+* To cooking method: stir fry.
 
-BeautifulSoup - for parsing through HTML
-nltk - for classifying people in the best dressed source
-Tkinter - for displaying a GUI
-pymongo - for accessing database (NOTE: not used in current project; used to create initial knowledge base)
+Python libraries used:
+* BeautifulSoup - for parsing through HTML
+* nltk - for classifying people in the best dressed source
+* Tkinter - for displaying a GUI
+* pymongo - for accessing database (NOTE: not used in current project; used to create initial knowledge base)
 
 Instructions to run project:
 1. Run gui.py. It takes no arguments.
